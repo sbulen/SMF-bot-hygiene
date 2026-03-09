@@ -1,4 +1,4 @@
-# Updated 7/25/25
+# Updated 3/9/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -496,6 +496,7 @@ BrowserMatchNoCase seostar bad_bot
 BrowserMatchNoCase seostats bad_bot
 BrowserMatchNoCase serpstatbot bad_bot
 BrowserMatchNoCase sexsearcher bad_bot
+BrowserMatchNoCase shapbot bad_bot
 BrowserMatchNoCase shodan bad_bot
 BrowserMatchNoCase siphon bad_bot
 BrowserMatchNoCase sistrix bad_bot
