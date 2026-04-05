@@ -16,7 +16,7 @@
  * To support ipv6 (128-bit unsigned ints), it works solely on the raw binary data.
  * No external libraries are required.
  *
- * Copyright 2025 Shawn Bulen
+ * Copyright 2025-2026 Shawn Bulen
  *
  * CIDR List Cleaner is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -409,6 +409,7 @@ class CIDR_list
 	 */
 	public $cidrs_ipv4 = array();
 	public $cidrs_ipv6 = array();
+	public $command = '';
 
 	/**
 	 * Constructor
@@ -416,11 +417,16 @@ class CIDR_list
 	 * Builds a CIDR_list object given a raw input file.
 	 * Input file must ONLY contain a list of CIDRs, one per line.
 	 *
-	 * @param string $cidrs
+	 * @param string $file = filename of input file
+	 * @param string $command = allows you to prepend a command to lines of output produced, e.g., 'Deny from'
 	 * @return void
 	 */
-	function __construct($file)
+	function __construct($file, $command = '')
 	{
+		// Save off command, & ensure it ends in a space
+		if (!empty($command) && is_string($command))
+			$this->command = trim($command) . ' ';
+
 		$fp = fopen($file, 'r');
 
 		// Load the file
@@ -538,9 +544,9 @@ class CIDR_list
 	{
 		$fp = fopen($file, 'w');
 		foreach($this->cidrs_ipv4 AS $entry)
-			fputs($fp, $entry->to_text() . "\n");
+			fputs($fp, $this->command . $entry->to_text() . "\n");
 		foreach($this->cidrs_ipv6 AS $entry)
-			fputs($fp, $entry->to_text() . "\n");
+			fputs($fp, $this->command . $entry->to_text() . "\n");
 		fclose($fp);
 	}
 }
