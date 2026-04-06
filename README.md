@@ -24,7 +24,8 @@ Everybody's site is a bit different; we are offering these as starter packs for 
 * We removed some valid international crawlers from that list, and have added many new ones, primarily social media sites & AI bots.  
 * We also attempt to restrict IP ranges known for malicious activity or aggressive crawling.
 * We ensure none of our users are in those IP ranges first...
-* Since we have a fair amount of international users, we attempt to avoid blocking by country.  We do, however, now block China.
+* Since we have a fair amount of international users, we attempt to avoid blocking by country.
+* We do, however, now block China, via a geo-block capability from our host.
 
 ## htaccess_asn_list.txt:
 * This file holds the list of ASNs that are blocked in the .htaccess file.
