@@ -34,8 +34,10 @@
  */
 
 // User configuration - just needs input & output files
+// Optional command, e.g., to prepend 'Deny from' in the output file
 $in_file = __DIR__ . '/asn_list_input.txt';
 $out_file = __DIR__ . '/asn_list_output.txt';
+$prefix_command = 'Require not ip';
 // End of user configuration - no need to edit below this line
 
 // Start of main program
@@ -48,7 +50,7 @@ echo 'CIDR List Cleaner input: ' . $in_file . MY_EOL;
 if (!file_exists($in_file))
 	exit('******** Invalid input file ********');
 
-$cidr_list = new CIDR_list($in_file);
+$cidr_list = new CIDR_list($in_file, $prefix_command);
 $cidr_list->write($out_file);
 
 echo 'CIDR List Cleaner output: ' . $out_file . MY_EOL;
