@@ -21,6 +21,7 @@ AS42473 - ANXHOLDING2
 AS43444 - Fast Servers (Pty) Ltd
 AS45102 - Alibaba cloud
 AS45245 - Banglalink Digital Communications Ltd
+AS45899 - VNPT-AS-VN VNPT Corp, VN
 AS46516 - HostRoyale LLC
 AS48492 - I.Q Online for Internet Services and Commu
 AS48753 - AVA HOST SRL
