@@ -1,4 +1,4 @@
-# Updated 3/9/26
+# Updated 4/19/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -31,6 +31,7 @@ BrowserMatchNoCase ankit bad_bot
 BrowserMatchNoCase anthill bad_bot
 BrowserMatchNoCase anthropic-ai bad_bot
 BrowserMatchNoCase apexoo bad_bot
+BrowserMatchNoCase applebot bad_bot
 BrowserMatchNoCase archive.org_bot bad_bot
 BrowserMatchNoCase arquivo-web-crawler bad_bot
 BrowserMatchNoCase arquivo.pt bad_bot
@@ -207,6 +208,7 @@ BrowserMatchNoCase gigabot bad_bot
 BrowserMatchNoCase go!zilla bad_bot
 BrowserMatchNoCase go-ahead-got-it bad_bot
 BrowserMatchNoCase go-http-client bad_bot
+BrowserMatchNoCase google-notebooklm bad_bot
 BrowserMatchNoCase googleother bad_bot
 BrowserMatchNoCase gopher bad_bot
 BrowserMatchNoCase gotit bad_bot
