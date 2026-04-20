@@ -1,4 +1,4 @@
-# Updated 4/19/26
+# Updated 4/20/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -666,6 +666,7 @@ BrowserMatchNoCase xenu bad_bot
 BrowserMatchNoCase xpymep1.exe bad_bot
 BrowserMatchNoCase yak bad_bot
 BrowserMatchNoCase yandex.com/bots bad_bot
+BrowserMatchNoCase youbot bad_bot
 BrowserMatchNoCase youdaobot bad_bot
 BrowserMatchNoCase zade bad_bot
 BrowserMatchNoCase zauba bad_bot
