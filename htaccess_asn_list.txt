@@ -1,15 +1,15 @@
 AS714 - Apple Inc.
-AS7643 - VNPT-AS-VN Vietnam Posts and Telecommunicat
-AS8193 - Uzbektelekom Joint Stock Company
+AS7643 - Vietnam Posts and Telecommunications (VNPT)
+AS8193 - "Uzbektelekom" Joint Stock Company
 AS9808 - China Mobile
 AS14061 - DigitalOcean, LLC
 AS18978 - Enzu Inc
 AS24432 - Axiata (Bangladesh) Limited
 AS24757 - EthioNet
-AS26548 - Purevoltage / Fine Group
+AS26548 - PureVoltage Hosting Inc.
 AS28146 - MHNET TELECOM
 AS28258 - VERO S.A
-AS28649 - Desktop Sigmanet Comunicacao Multimidia SA
+AS28649 - Desktop Sigmanet Comunicação Multimídia SA
 AS28668 - Desktop Sigmanet Comunicação Multimídia SA
 AS34081 - INCUBATEC GmbH - Srl
 AS35830 - Fast Servers (Pty) Ltd
@@ -17,11 +17,11 @@ AS36352 - HostPapa
 AS36925 - MEDITELECOM
 AS36926 - Airtel Networks Kenya Limited
 AS40786 - Digicel Jamaica
-AS42473 - ANXHOLDING2
+AS42473 - Anexia Cloud Solutions GmbH
 AS43444 - Fast Servers (Pty) Ltd
-AS45102 - Alibaba cloud
+AS45102 - Alibaba (US) Technology Co., Ltd.
 AS45245 - Banglalink Digital Communications Ltd
-AS45899 - VNPT-AS-VN VNPT Corp, VN
+AS45899 - VNPT Corp
 AS46516 - HostRoyale LLC
 AS48492 - I.Q Online for Internet Services and Commu
 AS48753 - AVA HOST SRL
@@ -35,17 +35,17 @@ AS61461 - Airtek Solutions C.A.
 AS63526 - Systems Solutions & development Technologi
 AS63969 - Race Online Limited
 AS64080 - SYN-UK
-AS131429 - MOBIFONE-AS-VN MOBIFONE Corporation, VN
-AS132203 - TENCENT-NET-AP-CN Tencent
-AS134963 - Alibaba cloud
-AS136907 - Huawei
+AS131429 - MOBIFONE Corporation
+AS132203 - Shenzhen Tencent Computer Systems Company
+AS134963 - Alibaba Cloud (Singapore) Private Limited
+AS136907 - HUAWEI INTERNATIONAL PTE. LTD.
 AS137967 - Digicon Telecommunication Ltd
 AS138115 - PT Deneva
 AS139341 - ACEVILLE PTE.LTD.
-AS149058 - Bangladesh
+AS149058 - Speed Links
 AS150750 - IN CABLE INTERNET (PRIVATE) LIMITED
 AS197540 - netcup GmbH
-AS199242 - Georgia
+AS199242 - Malakmadze Web LLC
 AS199654 - Oxide Group Limited
 AS199739 - Earthlink Telecommunications Equipment Tr
 AS202044 - Getechbrothers, MB
@@ -57,19 +57,19 @@ AS210644 - AEZA INTERNATIONAL LTD
 AS211138 - Private-Hosting di Cipriano oscar
 AS211590 - Bucklog SARL
 AS213230 - Hetzner Online GmbH
-AS213802 - Tianfeng (Hong Kong)
-AS213954 - SKYLEVEL LTDA
+AS213802 - Tianfeng (Hong Kong) Communications Limit
+AS213954 - Global Transit Systems LLC
 AS214996 - netcup GmbH
 AS262262 - METRONET
-AS262417 - UltraTelecom Provedora de Internet, BR
+AS262417 - UltraTelecom Provedora de Internet
 AS262481 - VERO S.A
 AS262773 - PROXXIMA TELECOMUNICACOES LTDA
 AS263073 - DTEL TELECOM
 AS263703 - VIGINET C.A
-AS265234 - N-MULTIMIDIA TELECOMUNICACOES LTDA - ME,
-AS267933 - IBIPAR SA, BR
-AS268976 - Weclix Telecom SA, BR
-AS269589 - MECONECTE COM, BR
-AS269616 - Malugainfor Comercio de Produtos de Infor
-AS269663 - CONNECTLINK TECH, BR
+AS265234 - N-MULTIMIDIA TELECOMUNICACOES LTDA - ME
+AS267933 - Tecnoserve Informática Ltda
+AS268976 - Weclix Telecom S/A
+AS269589 - MECONECTE COM BR
+AS269616 - Malugainfor Comércio de Produtos de Infor
+AS269663 - CONNECTLINK TECH
 AS270814 - ZAAZ PROVEDOR DE INTERNET E TELECOMUNICAC
