@@ -1,6 +1,9 @@
+AS3257 - GTT Communications Inc.
 AS7643 - Vietnam Posts and Telecommunications (VNPT)
+AS7979 - Servers.com, Inc.
 AS8193 - "Uzbektelekom" Joint Stock Company
 AS9808 - China Mobile
+AS11798 - Ace Data Centers, Inc.
 AS14061 - DigitalOcean, LLC
 AS18978 - Enzu Inc
 AS24432 - Axiata (Bangladesh) Limited
@@ -22,6 +25,7 @@ AS45102 - Alibaba (US) Technology Co., Ltd.
 AS45245 - Banglalink Digital Communications Ltd
 AS45899 - VNPT Corp
 AS46516 - HostRoyale LLC
+AS46635 - Contact Consumers
 AS48492 - I.Q Online for Internet Services and Commu
 AS48753 - AVA HOST SRL
 AS51765 - Oy Crea Nova Hosting Solution Ltd
@@ -31,6 +35,7 @@ AS56340 - Grand Ltd
 AS57043 - HOSTKEY B.V.
 AS59651 - Alex Largman
 AS61461 - Airtek Solutions C.A.
+AS62874 - Web2Objects LLC
 AS63526 - Systems Solutions & development Technologi
 AS63969 - Race Online Limited
 AS64080 - SYN-UK
@@ -49,10 +54,12 @@ AS199654 - Oxide Group Limited
 AS199739 - Earthlink Telecommunications Equipment Tr
 AS202044 - Getechbrothers, MB
 AS202561 - High Speed Telekomunikasyon ve Hab. Hiz.
+AS203020 - HostRoyale Technologies Pvt Ltd
 AS206206 - Kurdistan Net Company for Computer and In
 AS208324 - Noor Al-Bedaya for General Trading and Ag
 AS209372 - WS Telecom Inc
 AS210644 - AEZA INTERNATIONAL LTD
+AS210906 - UAB "Bite Lietuva"
 AS211138 - Private-Hosting di Cipriano oscar
 AS211590 - Bucklog SARL
 AS213230 - Hetzner Online GmbH
@@ -72,3 +79,5 @@ AS269589 - MECONECTE COM BR
 AS269616 - Malugainfor Comércio de Produtos de Infor
 AS269663 - CONNECTLINK TECH
 AS270814 - ZAAZ PROVEDOR DE INTERNET E TELECOMUNICAC
+AS396319 - Oxylabs
+AS401152 - Ace Data Centers II, L.L.C.
