@@ -173,7 +173,7 @@ class CIDR
 	// Quick check to see if an IP (passed in packed format) is within this CIDR
 	public function contains($ip_packed)
 	{
-		return (($ip_packed >= $this->min_packed) && ($ip_packed <= $this->max_packed));
+		return ((strcmp($ip_packed, $this->min_packed) > -1) && (strcmp($ip_packed, $this->max_packed) < 1));
 	}
 
 	/**
