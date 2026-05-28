@@ -2,17 +2,13 @@ Sitemap: https://yoursitemaphere.xml
 
 User-agent: Googlebot
 Crawl-delay: 30
-Disallow: */avatars/
-Disallow: */custom_avatar/
 Disallow: */cache/
 Disallow: */attachments/
 Disallow: */videos/
 Disallow: */downloads/
 Disallow: */exports/
 Disallow: */Packages/
-Disallow: */Smileys/
 Disallow: */Sources/
-Disallow: */Themes/
 Disallow: */cron.php
 Disallow: */proxy.php
 Disallow: *;prev_next=
@@ -102,17 +98,13 @@ Disallow: */index.php?action=.xml
 
 User-agent: bingbot
 Crawl-delay: 30
-Disallow: */avatars/
-Disallow: */custom_avatar/
 Disallow: */cache/
 Disallow: */attachments/
 Disallow: */videos/
 Disallow: */downloads/
 Disallow: */exports/
 Disallow: */Packages/
-Disallow: */Smileys/
 Disallow: */Sources/
-Disallow: */Themes/
 Disallow: */cron.php
 Disallow: */proxy.php
 Disallow: *;prev_next=
