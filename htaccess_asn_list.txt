@@ -56,7 +56,7 @@ AS202044 - Getechbrothers, MB
 AS202561 - High Speed Telekomunikasyon ve Hab. Hiz.
 AS203020 - HostRoyale Technologies Pvt Ltd
 AS206206 - Kurdistan Net Company for Computer and In
-AS208324 - Noor Al-Bedaya for General Trading and Ag
+AS208324 - Noor Al-Bedaya for General Trading, agric
 AS209372 - WS Telecom Inc
 AS210644 - AEZA INTERNATIONAL LTD
 AS210906 - UAB "Bite Lietuva"
@@ -73,7 +73,7 @@ AS262773 - PROXXIMA TELECOMUNICACOES LTDA
 AS263073 - DTEL TELECOM
 AS263703 - VIGINET C.A
 AS265234 - N-MULTIMIDIA TELECOMUNICACOES LTDA - ME
-AS267933 - Tecnoserve Informática Ltda
+AS267933 - IBIPAR S/A
 AS268976 - Weclix Telecom S/A
 AS269589 - MECONECTE COM BR
 AS269616 - Malugainfor Comércio de Produtos de Infor
