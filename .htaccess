@@ -1,4 +1,4 @@
-# Updated 4/20/26
+# Updated 8/12/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -125,6 +125,7 @@ BrowserMatchNoCase crescent bad_bot
 BrowserMatchNoCase crunchbot bad_bot
 BrowserMatchNoCase cshttp bad_bot
 BrowserMatchNoCase curious bad_bot
+BrowserMatchNoCase curl bad_bot
 BrowserMatchNoCase custo bad_bot
 BrowserMatchNoCase cyotekwebcopy bad_bot
 BrowserMatchNoCase databasedrivermysqli bad_bot
