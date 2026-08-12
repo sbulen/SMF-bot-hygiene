@@ -96,6 +96,9 @@ Disallow: */index.php?action=who
 Disallow: */index.php?action=xmlhttp
 Disallow: */index.php?action=.xml
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: bingbot
 Crawl-delay: 30
 Disallow: */cache/
