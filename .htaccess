@@ -1,4 +1,4 @@
-# Updated 8/12/26
+# Updated 8/20/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -137,6 +137,7 @@ BrowserMatchNoCase dblbot bad_bot
 BrowserMatchNoCase demandbase-bot bad_bot
 BrowserMatchNoCase demon bad_bot
 BrowserMatchNoCase deusu bad_bot
+BrowserMatchNoCase developers.facebook.com bad_bot
 BrowserMatchNoCase devil bad_bot
 BrowserMatchNoCase digincore bad_bot
 BrowserMatchNoCase digitalpebble bad_bot
@@ -181,7 +182,6 @@ BrowserMatchNoCase extractorpro bad_bot
 BrowserMatchNoCase 'extreme picture finder' bad_bot
 BrowserMatchNoCase eyenetie bad_bot
 BrowserMatchNoCase ezooms bad_bot
-BrowserMatchNoCase facebook.com/externalhit bad_bot
 BrowserMatchNoCase facebookbot bad_bot
 BrowserMatchNoCase facebookscraper bad_bot
 BrowserMatchNoCase fdm bad_bot
@@ -332,7 +332,10 @@ BrowserMatchNoCase meanpathbot bad_bot
 BrowserMatchNoCase mediatoolkitbot bad_bot
 BrowserMatchNoCase mediawords bad_bot
 BrowserMatchNoCase megaindex.ru bad_bot
+BrowserMatchNoCase meta-externalads bad_bot
 BrowserMatchNoCase meta-externalagent bad_bot
+BrowserMatchNoCase meta-externalfetcher bad_bot
+BrowserMatchNoCase meta-webindexer bad_bot
 BrowserMatchNoCase metauri bad_bot
 BrowserMatchNoCase mfc_tear_sample bad_bot
 BrowserMatchNoCase micromessenger bad_bot
