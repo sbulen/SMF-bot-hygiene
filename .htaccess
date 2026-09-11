@@ -30,6 +30,7 @@ BrowserMatchNoCase anarchy99 bad_bot
 BrowserMatchNoCase ankit bad_bot
 BrowserMatchNoCase anthill bad_bot
 BrowserMatchNoCase anthropic-ai bad_bot
+BrowserMatchNoCase anthropic.com bad_bot
 BrowserMatchNoCase apexoo bad_bot
 BrowserMatchNoCase applebot bad_bot
 BrowserMatchNoCase archive.org_bot bad_bot
@@ -100,6 +101,8 @@ BrowserMatchNoCase chlooe bad_bot
 BrowserMatchNoCase citoid bad_bot
 BrowserMatchNoCase claritybot bad_bot
 BrowserMatchNoCase clark-crawler bad_bot
+BrowserMatchNoCase claude-code bad_bot
+BrowserMatchNoCase claude-user bad_bot
 BrowserMatchNoCase claudebot bad_bot
 BrowserMatchNoCase cliqzbot bad_bot
 BrowserMatchNoCase 'cloud mapping' bad_bot
