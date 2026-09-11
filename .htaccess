@@ -1,4 +1,4 @@
-# Updated 8/20/26
+# Updated 9/11/26
 BrowserMatchNoCase 01h4x.com bad_bot
 BrowserMatchNoCase 360spider bad_bot
 BrowserMatchNoCase 404checker bad_bot
@@ -221,6 +221,7 @@ BrowserMatchNoCase grafula bad_bot
 BrowserMatchNoCase grapefx bad_bot
 BrowserMatchNoCase grapeshotcrawler bad_bot
 BrowserMatchNoCase gridbot bad_bot
+BrowserMatchNoCase grokbot bad_bot
 BrowserMatchNoCase gt::www bad_bot
 BrowserMatchNoCase haansoft bad_bot
 BrowserMatchNoCase haosouspider bad_bot
