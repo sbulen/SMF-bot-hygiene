@@ -5,6 +5,8 @@ AS8193 - "Uzbektelekom" Joint Stock Company
 AS9808 - China Mobile Communications Group Co., Ltd
 AS11798 - Ace Data Centers, Inc.
 AS14061 - DigitalOcean, LLC
+AS14618 - Amazon.com, Inc.
+AS16509 - Amazon.com, Inc.
 AS18978 - Enzu Inc
 AS24432 - Axiata (Bangladesh) Limited
 AS24757 - EthioNet
