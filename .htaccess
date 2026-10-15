@@ -178,6 +178,7 @@ BrowserMatchNoCase erocrawler bad_bot
 BrowserMatchNoCase evc-batch bad_bot
 BrowserMatchNoCase evil bad_bot
 BrowserMatchNoCase exabot bad_bot
+BrowserMatchNoCase exasearchbot bad_bot
 BrowserMatchNoCase 'express webpictures' bad_bot
 BrowserMatchNoCase extlinksbot bad_bot
 BrowserMatchNoCase extractor bad_bot
