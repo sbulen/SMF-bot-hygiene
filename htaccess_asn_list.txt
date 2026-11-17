@@ -30,6 +30,7 @@ AS46475 - Limestone Networks, Inc.
 AS46516 - HostRoyale LLC
 AS46635 - AviationAI
 AS48090 - TECHOFF SRV LIMITED
+AS48282 - Hosting technology LTD
 AS48492 - I.Q Online for Internet Services and Commu
 AS48753 - AVA HOST SRL
 AS51765 - Oy Crea Nova Hosting Solution Ltd
